@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Module 1</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: left;
+}
+</style>
+</head>
+<body>
+
+<h1>My Resume</h1>
+<hr/>
+<h2>Snigdha sucharita Sahu</h2>
+<p>mobile: 8917329094 | email: snigdhasucharita7@gmail.com</p>
+<h3>Synopsis</h3>
+<p> This is Snigdha Sucharita Sahu. I have done my matricualtion from MKC High School, Intermediate(Science) from BJB Junior College and B.Tech(Ceramic Engineering) from NIT Rourkela.
+<hr/>
+<h3>Hobbies</h3>
+<ul>
+<li>Painting</li>
+<li>Photography</li>
+<li>Cooking</li>
+</ul>
+<hr/>
+<h3>Grades</h3>
+<table>
+<tr>
+<th>Exam</th>
+<th>Score</th>
+</tr>
+<tr>
+<td>SSLC</td>
+<td>94%</td>
+</tr>
+<tr>
+<td>HSC</td>
+<td>83%</td>
+</tr>
+<tr>
+<td>Bachelors</td>
+<td>8.64cg</td>
+</tr>
+</table>
+<hr/>
+<hr/>
+</body>
+</html>

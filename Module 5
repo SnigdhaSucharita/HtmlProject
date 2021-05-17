@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Module 1</title>
+<style>
+#A {background-color:violet;}
+.B {color: rgb(0,0,250);}
+.C {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.D {
+  padding: 5px;
+}
+.E {
+  text-align: left;
+}
+</style>
+</head>
+<body id="A">
+
+<h1 style="font-size:40px;">My Resume</h1>
+<hr/>
+<img src="url" alt="profile picture">
+<h2>Snigdha sucharita Sahu</h2>
+<p class="B">mobile: 8917329094 | email: snigdhasucharita7@gmail.com</p>
+<h3 style="color:#88ff22">Synopsis</h3>
+<p class="B"> This is Snigdha Sucharita Sahu. I have done my matricualtion from MKC High School, Intermediate(Science) from BJB Junior College and B.Tech(Ceramic Engineering) from NIT Rourkela.</p>
+<hr/>
+<h3 style="color:#88ff22">Hobbies</h3>
+<ul>
+<li class="B">Painting</li>
+<li class="B">Photography</li>
+<li class="B">Cooking</li>
+</ul>
+<hr/>
+<h3 style="color:#88ff22">Grades</h3>
+<table class="C">
+<tr>
+<th class="B C D E">Exam</th>
+<th class="B C D E">Score</th>
+</tr>
+<tr>
+<td class="B C D">SSLC</td>
+<td class="B C D">94%</td>
+</tr>
+<tr>
+<td class="B C D">HSC</td>
+<td class="B C D">83%</td>
+</tr>
+<tr>
+<td class="B C D">Bachelors</td>
+<td class="B C D">8.64cg</td>
+</tr>
+</table>
+<hr/>
+<hr/>
+</body>
+</html>
